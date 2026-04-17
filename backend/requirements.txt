@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+spacy
+textblob
+scikit-learn
+numpy
+python-dotenv
+requests
+cachetools
+pydantic
+feedparser
+beautifulsoup4

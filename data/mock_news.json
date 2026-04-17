@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "title": "China increases naval patrols near disputed Spratly Islands",
+    "body": "China has significantly increased its naval presence near the Spratly Islands in the South China Sea, deploying additional warships and coast guard vessels. Military analysts warn of heightened tensions with Philippines and Vietnam over territorial claims. Missile-equipped destroyers were spotted conducting live-fire drills in disputed waters.",
+    "region": "South China Sea",
+    "countries": ["China", "Philippines", "Vietnam"],
+    "date": "2026-03-29",
+    "source": "Defense Monitor"
+  },
+  {
+    "id": 2,
+    "title": "Philippines protests Chinese coast guard water cannon use",
+    "body": "The Philippines lodged a formal diplomatic protest after Chinese coast guard vessels used water cannons against Filipino supply boats near the Scarborough Shoal. The incident marks the third such confrontation this month, raising fears of military escalation. Troop movements have been detected near Chinese naval bases.",
+    "region": "South China Sea",
+    "countries": ["China", "Philippines"],
+    "date": "2026-03-28",
+    "source": "Asia Pacific Times"
+  },
+  {
+    "id": 3,
+    "title": "US carrier strike group enters South China Sea amid tensions",
+    "body": "A US Navy carrier strike group led by the USS Ronald Reagan has entered the South China Sea for what the Pentagon calls routine freedom of navigation operations. China condemned the move as provocative, warning of serious consequences. Regional analysts fear escalation into armed conflict if diplomatic channels remain blocked.",
+    "region": "South China Sea",
+    "countries": ["USA", "China"],
+    "date": "2026-03-27",
+    "source": "Naval Today"
+  },
+  {
+    "id": 4,
+    "title": "Vietnam strengthens coastal defenses following Chinese incursions",
+    "body": "Vietnam has deployed additional anti-ship missile batteries along its coastline following repeated Chinese maritime incursions. Defense spending has increased 40% year-over-year. Analysts describe the situation as the most volatile since the 2014 oil rig standoff.",
+    "region": "South China Sea",
+    "countries": ["Vietnam", "China"],
+    "date": "2026-03-26",
+    "source": "Southeast Asia Defense"
+  },
+  {
+    "id": 5,
+    "title": "ASEAN calls for restraint as maritime standoffs multiply",
+    "body": "ASEAN foreign ministers issued an emergency statement calling for restraint after a week of escalating maritime incidents. Multiple nations reported armed vessels operating in disputed exclusive economic zones. Sanctions discussions have begun at the United Nations Security Council.",
+    "region": "South China Sea",
+    "countries": ["China", "Philippines", "Vietnam", "Malaysia"],
+    "date": "2026-03-25",
+    "source": "ASEAN Monitor"
+  },
+  {
+    "id": 6,
+    "title": "Taiwan Strait tension rises as China conducts military exercises",
+    "body": "China launched large-scale military exercises encircling Taiwan, simulating a blockade scenario. Taiwan's defense ministry reported multiple warplane crossings of the median line. The US State Department issued a stern warning, calling the exercises destabilizing. Missile tests were observed near the strait.",
+    "region": "Taiwan",
+    "countries": ["China", "Taiwan", "USA"],
+    "date": "2026-03-29",
+    "source": "Taiwan Defense Review"
+  },
+  {
+    "id": 7,
+    "title": "Taiwan scrambles jets after record PLA Air Force incursions",
+    "body": "Taiwan's Air Force scrambled fighter jets 14 times in 48 hours after People's Liberation Army aircraft crossed into Taiwan's air defense identification zone. The unprecedented frequency of incursions has triggered emergency parliamentary sessions and mobilization planning discussions.",
+    "region": "Taiwan",
+    "countries": ["China", "Taiwan"],
+    "date": "2026-03-28",
+    "source": "Pacific Defense News"
+  },
+  {
+    "id": 8,
+    "title": "US approves $2 billion arms sale to Taiwan amid cross-strait tensions",
+    "body": "The United States approved a $2 billion arms sale to Taiwan including advanced anti-aircraft systems and guided missile destroyers. China responded with fury, threatening sanctions and recalling its ambassador. Military analysts warn of potential retaliatory military action in the coming weeks.",
+    "region": "Taiwan",
+    "countries": ["USA", "Taiwan", "China"],
+    "date": "2026-03-27",
+    "source": "Defense News"
+  },
+  {
+    "id": 9,
+    "title": "Taiwan strengthens underground command bunkers for wartime scenario",
+    "body": "Taiwan's military is accelerating construction of underground command and control bunkers in preparation for potential armed conflict. Defense budget increased to record levels. Civil defense drills have been expanded islandwide as threat assessments worsen.",
+    "region": "Taiwan",
+    "countries": ["Taiwan", "China"],
+    "date": "2026-03-26",
+    "source": "Taipei Security Post"
+  },
+  {
+    "id": 10,
+    "title": "Russia deploys additional troops near Ukraine eastern border",
+    "body": "Satellite imagery confirms Russia has deployed an additional 30,000 troops near the Ukrainian border, raising fears of renewed offensive operations. NATO allies have placed forces on high alert. Ukraine's defense ministry reported increased artillery shelling along the front line.",
+    "region": "Russia-Ukraine",
+    "countries": ["Russia", "Ukraine"],
+    "date": "2026-03-29",
+    "source": "European Defense Monitor"
+  },
+  {
+    "id": 11,
+    "title": "Ukraine reports massive drone and missile strikes on infrastructure",
+    "body": "Ukraine suffered its largest coordinated drone and missile attack in months, with Russian forces targeting power stations and transportation hubs across five regions. Emergency blackouts affected millions. NATO emergency session convened to discuss potential response options.",
+    "region": "Russia-Ukraine",
+    "countries": ["Russia", "Ukraine", "NATO"],
+    "date": "2026-03-28",
+    "source": "Kyiv Security Bureau"
+  },
+  {
+    "id": 12,
+    "title": "NATO reinforces eastern flank amid Russian military buildup",
+    "body": "NATO has deployed additional rapid reaction forces to Poland, Romania, and the Baltic states following intelligence assessments of Russian military buildup. US Army pre-positioned heavy armor and ammunition stockpiles. The alliance pledged collective defense in response to any Russian aggression.",
+    "region": "Russia-Ukraine",
+    "countries": ["Russia", "Ukraine", "NATO", "Poland"],
+    "date": "2026-03-27",
+    "source": "Alliance Security Review"
+  },
+  {
+    "id": 13,
+    "title": "Germany announces historic defense spending surge after Ukraine crisis",
+    "body": "Germany announced a historic increase in defense spending to exceed NATO's 2% GDP target following escalating Russian aggression in Ukraine. Chancellor confirmed deployment of additional Bundeswehr units to NATO's eastern flank. European defense cooperation agreements signed with 12 nations.",
+    "region": "Russia-Ukraine",
+    "countries": ["Germany", "Russia", "Ukraine"],
+    "date": "2026-03-26",
+    "source": "Berlin Defense Post"
+  },
+  {
+    "id": 14,
+    "title": "Ceasefire talks collapse as Russia rejects Ukrainian peace conditions",
+    "body": "Ceasefire negotiations broke down after Russia rejected all Ukrainian preconditions for peace talks. Diplomatic sources warn of intensified military operations within days. International mediators from Turkey and UAE expressed deep concern about humanitarian consequences of continued conflict.",
+    "region": "Russia-Ukraine",
+    "countries": ["Russia", "Ukraine", "Turkey"],
+    "date": "2026-03-25",
+    "source": "Conflict Monitor"
+  },
+  {
+    "id": 15,
+    "title": "Iran nuclear enrichment reaches weapons-grade threshold",
+    "body": "International Atomic Energy Agency inspectors confirmed Iran has enriched uranium to near weapons-grade purity, crossing a critical red line. Israel placed its Air Force on highest alert. The United States and European Union announced emergency sanctions. A military strike by Israel is described as increasingly likely.",
+    "region": "Middle East",
+    "countries": ["Iran", "Israel", "USA"],
+    "date": "2026-03-29",
+    "source": "Middle East Security Monitor"
+  },
+  {
+    "id": 16,
+    "title": "Israel conducts airstrikes targeting Iranian proxy forces in Syria",
+    "body": "Israeli Air Force conducted a series of precision airstrikes against Iranian Revolutionary Guard positions and weapons depots in Syria. Iran vowed severe retaliation, deploying proxy forces across the region. Hezbollah placed on combat readiness in Lebanon.",
+    "region": "Middle East",
+    "countries": ["Israel", "Iran", "Syria"],
+    "date": "2026-03-28",
+    "source": "Jerusalem Security Post"
+  },
+  {
+    "id": 17,
+    "title": "US deploys additional carrier group to Persian Gulf amid Iran threat",
+    "body": "The Pentagon ordered a second aircraft carrier strike group to the Persian Gulf in response to Iranian threats. Iran conducted ballistic missile tests within range of US bases. Regional governments began evacuating non-essential diplomatic personnel.",
+    "region": "Middle East",
+    "countries": ["USA", "Iran"],
+    "date": "2026-03-27",
+    "source": "Pentagon Correspondent"
+  },
+  {
+    "id": 18,
+    "title": "Houthi rebels escalate Red Sea attacks on international shipping",
+    "body": "Houthi forces launched coordinated anti-ship missile and drone attacks against commercial vessels in the Red Sea and Gulf of Aden. Global shipping companies rerouted routes around Africa, causing supply chain disruptions. US and UK navies intercepted several inbound missiles.",
+    "region": "Middle East",
+    "countries": ["Yemen", "USA", "UK"],
+    "date": "2026-03-26",
+    "source": "Maritime Security Intelligence"
+  },
+  {
+    "id": 19,
+    "title": "Saudi Arabia accuses Iran of proxy war escalation across region",
+    "body": "Saudi Arabia's foreign minister accused Iran of directing a systematic proxy war campaign spanning Yemen, Syria, Iraq, and Lebanon. Emergency Arab League summit held in Riyadh. Saudi military forces placed on elevated readiness amid intelligence warnings of imminent attacks.",
+    "region": "Middle East",
+    "countries": ["Saudi Arabia", "Iran"],
+    "date": "2026-03-25",
+    "source": "Gulf Security Review"
+  },
+  {
+    "id": 20,
+    "title": "India and Pakistan exchange heavy artillery fire across Line of Control",
+    "body": "Indian and Pakistani forces exchanged the heaviest artillery fire in five years across the Line of Control in Kashmir. Multiple military casualties were reported on both sides. Both nuclear-armed nations placed air forces on standby. Emergency hotlines between military commanders went unanswered.",
+    "region": "India-Pakistan",
+    "countries": ["India", "Pakistan"],
+    "date": "2026-03-29",
+    "source": "South Asia Security"
+  },
+  {
+    "id": 21,
+    "title": "Pakistan deploys armored divisions near Indian border",
+    "body": "Pakistan Army moved three armored divisions toward the Indian border following a series of cross-border skirmishes. India responded by activating its rapid reaction corps. International observers warned of miscalculation risk given both nations' nuclear arsenals. US urged immediate de-escalation.",
+    "region": "India-Pakistan",
+    "countries": ["Pakistan", "India"],
+    "date": "2026-03-28",
+    "source": "South Asia Monitor"
+  },
+  {
+    "id": 22,
+    "title": "Terrorist attack on Indian parliament blamed on Pakistan-based groups",
+    "body": "A coordinated terrorist attack targeted India's parliament building, with Indian intelligence attributing the attack to Pakistan-based militant groups. India suspended all diplomatic relations and recalled its high commissioner. Military commanders were given pre-authorization for cross-border strikes.",
+    "region": "India-Pakistan",
+    "countries": ["India", "Pakistan"],
+    "date": "2026-03-27",
+    "source": "New Delhi Security Bureau"
+  },
+  {
+    "id": 23,
+    "title": "UN Security Council emergency session on India-Pakistan crisis",
+    "body": "The UN Security Council convened an emergency session to address the rapidly deteriorating India-Pakistan situation. Both nations called up military reserves. China expressed support for Pakistan while USA and UK urged de-escalation. International conflict monitors rated the crisis at highest alert level.",
+    "region": "India-Pakistan",
+    "countries": ["India", "Pakistan", "China", "USA"],
+    "date": "2026-03-26",
+    "source": "UN News Service"
+  },
+  {
+    "id": 24,
+    "title": "North Korea conducts ICBM test over Japan Sea",
+    "body": "North Korea launched an intercontinental ballistic missile that flew over Japanese territory before landing in the Pacific Ocean. The missile demonstrated range capable of reaching continental United States. South Korea and Japan scrambled fighter jets and activated missile defense systems.",
+    "region": "Korean Peninsula",
+    "countries": ["North Korea", "South Korea", "Japan", "USA"],
+    "date": "2026-03-29",
+    "source": "Northeast Asia Security"
+  },
+  {
+    "id": 25,
+    "title": "Kim Jong-un threatens nuclear strike if provoked",
+    "body": "North Korean leader Kim Jong-un made explicit nuclear threats during a military parade, stating the nation would not hesitate to use tactical nuclear weapons. South Korea declared a national security emergency. US THAAD missile defense systems repositioned across the peninsula.",
+    "region": "Korean Peninsula",
+    "countries": ["North Korea", "South Korea", "USA"],
+    "date": "2026-03-28",
+    "source": "Peninsula Watch"
+  },
+  {
+    "id": 26,
+    "title": "South Korea-US joint military exercises trigger North Korean warnings",
+    "body": "Large-scale joint military exercises between South Korea and the United States triggered furious warnings from Pyongyang. North Korea mobilized its ground forces along the DMZ. Artillery units were observed taking forward combat positions across the border.",
+    "region": "Korean Peninsula",
+    "countries": ["South Korea", "USA", "North Korea"],
+    "date": "2026-03-27",
+    "source": "Seoul Defense Review"
+  },
+  {
+    "id": 27,
+    "title": "Ethiopia-Eritrea border clashes kill dozens",
+    "body": "Armed clashes along the Ethiopia-Eritrea border have killed dozens of soldiers, threatening to reignite the devastating conflict that ended in 2022. Troops from both sides were observed advancing toward contested positions. African Union emergency mediation teams were dispatched.",
+    "region": "Horn of Africa",
+    "countries": ["Ethiopia", "Eritrea"],
+    "date": "2026-03-29",
+    "source": "Africa Security Monitor"
+  },
+  {
+    "id": 28,
+    "title": "Sudan civil war intensification displaces millions",
+    "body": "Intense fighting between the Sudanese Armed Forces and Rapid Support Forces has displaced over 2 million people in the latest offensive. Humanitarian agencies unable to access conflict zones. Regional states fear spillover as armed groups cross international borders.",
+    "region": "Horn of Africa",
+    "countries": ["Sudan"],
+    "date": "2026-03-28",
+    "source": "Africa Crisis Monitor"
+  },
+  {
+    "id": 29,
+    "title": "China South China Sea dredging operations expand dramatically",
+    "body": "New satellite imagery shows China has dramatically expanded its island-building and dredging operations in the South China Sea, constructing new military-capable runways and radar installations. The Permanent Court of Arbitration ruling continues to be ignored. ASEAN nations voiced collective condemnation.",
+    "region": "South China Sea",
+    "countries": ["China"],
+    "date": "2026-03-24",
+    "source": "Strategic Intelligence Review"
+  },
+  {
+    "id": 30,
+    "title": "Malaysia intercepts Chinese research vessel in EEZ",
+    "body": "Malaysian coast guard intercepted a Chinese research vessel conducting unauthorized surveys within Malaysia's exclusive economic zone. China denied wrongdoing, calling the vessel's passage routine. The incident is the sixth such confrontation this quarter, raising bilateral tensions sharply.",
+    "region": "South China Sea",
+    "countries": ["Malaysia", "China"],
+    "date": "2026-03-23",
+    "source": "Kuala Lumpur Post"
+  },
+  {
+    "id": 31,
+    "title": "Ukraine counteroffensive makes initial gains in Zaporizhzhia",
+    "body": "Ukrainian forces launched a new counteroffensive operation in the Zaporizhzhia region, retaking several villages. Russia responded with intense missile bombardment targeting Ukrainian logistics infrastructure. Military analysts describe the situation as fluid and potentially destabilizing.",
+    "region": "Russia-Ukraine",
+    "countries": ["Ukraine", "Russia"],
+    "date": "2026-03-24",
+    "source": "Ukraine War Monitor"
+  },
+  {
+    "id": 32,
+    "title": "Russia threatens to target Western arms supply routes",
+    "body": "Russia's Defense Ministry threatened to strike arms supply convoys from NATO countries if weapons deliveries continued. The warning was unprecedented in direct threatening language toward NATO members. Alliance officials convened emergency consultations to assess the threshold of Article 5 invocation.",
+    "region": "Russia-Ukraine",
+    "countries": ["Russia", "NATO", "Ukraine"],
+    "date": "2026-03-23",
+    "source": "Moscow Correspondent"
+  },
+  {
+    "id": 33,
+    "title": "Iran activates underground Fordow nuclear facility at full capacity",
+    "body": "Iran announced full activation of its underground Fordow nuclear enrichment facility, significantly increasing uranium production capacity. The hardened site is largely immune to conventional airstrikes. Israeli military planners are reported to be reviewing bunker-buster munitions options.",
+    "region": "Middle East",
+    "countries": ["Iran", "Israel"],
+    "date": "2026-03-24",
+    "source": "Nuclear Threat Initiative"
+  },
+  {
+    "id": 34,
+    "title": "Pakistan test-fires ballistic missile amid India tensions",
+    "body": "Pakistan successfully test-fired a medium-range ballistic missile capable of carrying nuclear warheads, in what officials described as a routine test. India characterized the test as deliberately provocative. International observers warned of dangerous signalling dynamics between nuclear powers.",
+    "region": "India-Pakistan",
+    "countries": ["Pakistan", "India"],
+    "date": "2026-03-25",
+    "source": "Islamabad Security Review"
+  },
+  {
+    "id": 35,
+    "title": "Taiwan conducts largest military mobilization exercise in decades",
+    "body": "Taiwan conducted its largest-ever military mobilization and civil defense exercise, simulating a Chinese invasion scenario. Over 200,000 reservists were called up. China condemned the exercise as dangerous provocation. United States expressed strong support for Taiwan's self-defense capabilities.",
+    "region": "Taiwan",
+    "countries": ["Taiwan", "China", "USA"],
+    "date": "2026-03-25",
+    "source": "Taipei Security Times"
+  },
+  {
+    "id": 36,
+    "title": "North Korea reportedly tests nuclear device underground",
+    "body": "Seismic monitoring agencies detected an anomalous underground explosion at North Korea's Punggye-ri nuclear test site consistent with a nuclear detonation. If confirmed, it would be Pyongyang's seventh nuclear test. The UN Security Council convened an emergency session.",
+    "region": "Korean Peninsula",
+    "countries": ["North Korea"],
+    "date": "2026-03-26",
+    "source": "Nuclear Monitor"
+  },
+  {
+    "id": 37,
+    "title": "Peace talks between India and Pakistan collapse over Kashmir",
+    "body": "Diplomatic talks between India and Pakistan broke down over irreconcilable positions on Kashmir's status. Both nations reinforced troop deployments along the Line of Control. Military exercises on both sides were observed intensifying. Foreign governments issued travel advisories.",
+    "region": "India-Pakistan",
+    "countries": ["India", "Pakistan"],
+    "date": "2026-03-24",
+    "source": "Conflict Resolution Monitor"
+  },
+  {
+    "id": 38,
+    "title": "China warns Taiwan independence declaration would trigger war",
+    "body": "China's State Council issued its most explicit war warning to date, stating that any formal declaration of independence by Taiwan would constitute an act of war triggering immediate military response. Taiwan's president reaffirmed commitment to democratic autonomy.",
+    "region": "Taiwan",
+    "countries": ["China", "Taiwan"],
+    "date": "2026-03-23",
+    "source": "Beijing Observer"
+  },
+  {
+    "id": 39,
+    "title": "Russia places strategic nuclear forces on special alert",
+    "body": "Russian President Putin ordered strategic nuclear forces placed on a special alert regime following NATO statements supporting Ukraine. This marked the second time Russia elevated nuclear alert status this year. US and European allies described the move as deeply alarming and irresponsible.",
+    "region": "Russia-Ukraine",
+    "countries": ["Russia", "NATO", "USA"],
+    "date": "2026-03-22",
+    "source": "Kremlin Watch"
+  },
+  {
+    "id": 40,
+    "title": "Israel prepares evacuation corridors ahead of possible Iran strikes",
+    "body": "Israel established emergency evacuation corridors and activated national civil defense systems in preparation for potential Iranian retaliatory strikes. The Home Front Command urged civilians to remain near shelters. US Patriot interceptor batteries were repositioned to cover major Israeli cities.",
+    "region": "Middle East",
+    "countries": ["Israel", "Iran", "USA"],
+    "date": "2026-03-23",
+    "source": "Tel Aviv Security Monitor"
+  },
+  {
+    "id": 41,
+    "title": "South China Sea fishing vessels used as maritime militia sparks row",
+    "body": "The Philippines presented satellite evidence showing Chinese fishing vessels organized into maritime militia formations blocking Filipino fishermen. The vessels were equipped with communication systems and operated in coordinated patterns characteristic of naval operations. ASEAN demanded accountability.",
+    "region": "South China Sea",
+    "countries": ["Philippines", "China"],
+    "date": "2026-03-22",
+    "source": "Maritime Monitor"
+  },
+  {
+    "id": 42,
+    "title": "US-China diplomatic talks break down over Taiwan arms sales",
+    "body": "High-level diplomatic talks between the US and China collapsed after Beijing demanded Washington halt all arms sales to Taiwan. The breakdown came as both militaries conducted simultaneous exercises in the Pacific. Observers warn of reduced crisis management communication channels.",
+    "region": "South China Sea",
+    "countries": ["USA", "China"],
+    "date": "2026-03-21",
+    "source": "Washington Post Asia Desk"
+  },
+  {
+    "id": 43,
+    "title": "Russia-Belarus joint military drills along Polish and Ukrainian borders",
+    "body": "Russia and Belarus conducted unprecedented joint military exercises involving 80,000 troops along the Polish and Ukrainian borders simultaneously. NATO characterized the exercises as highly destabilizing. Polish and Baltic forces went to their highest peacetime readiness.",
+    "region": "Russia-Ukraine",
+    "countries": ["Russia", "Belarus", "Ukraine", "NATO"],
+    "date": "2026-03-21",
+    "source": "European Security Watch"
+  },
+  {
+    "id": 44,
+    "title": "Iran-backed groups launch coordinated attacks on US bases in Iraq",
+    "body": "Iran-backed militant groups launched coordinated rocket and drone attacks against US military bases in Iraq, wounding several American service members. The US responded with airstrikes against militia command posts. Iraq's government condemned both attacks but was unable to prevent escalation.",
+    "region": "Middle East",
+    "countries": ["Iran", "USA", "Iraq"],
+    "date": "2026-03-22",
+    "source": "Mesopotamia Security"
+  },
+  {
+    "id": 45,
+    "title": "North Korea moves artillery to forward positions near Seoul",
+    "body": "South Korean military intelligence detected the movement of North Korean long-range artillery to forward firing positions within range of Seoul. The provocative deployment prompted South Korea to convene a national security council emergency meeting. US Forces Korea raised their alert level.",
+    "region": "Korean Peninsula",
+    "countries": ["North Korea", "South Korea", "USA"],
+    "date": "2026-03-24",
+    "source": "Korea Defense Review"
+  },
+  {
+    "id": 46,
+    "title": "Pakistan closes airspace to Indian commercial flights amid standoff",
+    "body": "Pakistan closed its airspace to Indian commercial aviation in a significant escalatory diplomatic and economic measure. India responded with reciprocal closures. The mutual airspace shutdowns are the most severe economic pressure measures between the neighbors since Pulwama.",
+    "region": "India-Pakistan",
+    "countries": ["Pakistan", "India"],
+    "date": "2026-03-23",
+    "source": "Aviation Security Monitor"
+  },
+  {
+    "id": 47,
+    "title": "Taiwan's chip industry on wartime production schedule amid threats",
+    "body": "TSMC and other Taiwan semiconductor manufacturers switched to accelerated wartime-contingency production schedules. Engineers and equipment are being dispersed to underground bunkers. The moves reflect growing seriousness about Chinese military invasion scenarios among industrial leaders.",
+    "region": "Taiwan",
+    "countries": ["Taiwan", "China"],
+    "date": "2026-03-22",
+    "source": "Tech Security Monitor"
+  },
+  {
+    "id": 48,
+    "title": "Ethiopia mobilizes additional troops to Tigray region",
+    "body": "Ethiopia mobilized additional military units to the Tigray region amid reports of renewed tensions with Tigray People's Liberation Front remnants. Humanitarian organizations warned of civilian displacement. The Horn of Africa region continues to experience cascading security crises.",
+    "region": "Horn of Africa",
+    "countries": ["Ethiopia"],
+    "date": "2026-03-26",
+    "source": "East Africa Monitor"
+  },
+  {
+    "id": 49,
+    "title": "UN warns of catastrophic famine risk in Sudan conflict zones",
+    "body": "United Nations humanitarian agencies warned of imminent catastrophic famine affecting 8 million people in Sudan's active conflict zones. Food convoys blocked by armed factions for three consecutive months. International aid agencies unable to access affected populations despite escalating needs.",
+    "region": "Horn of Africa",
+    "countries": ["Sudan"],
+    "date": "2026-03-25",
+    "source": "UN Relief Watch"
+  },
+  {
+    "id": 50,
+    "title": "US intelligence report: Russia planning major offensive within 90 days",
+    "body": "Declassified US intelligence assessment warns of a high-probability major Russian offensive within 90 days targeting multiple Ukrainian cities simultaneously. Intelligence gathered from multiple sources including satellite imagery showing military logistics buildup, fuel stockpiling, and ammunition depot expansion.",
+    "region": "Russia-Ukraine",
+    "countries": ["Russia", "Ukraine", "USA"],
+    "date": "2026-03-20",
+    "source": "Intelligence Monitor"
+  },
+  {
+    "id": 51,
+    "title": "South China Sea tensions rise to 5-year high, analysts warn",
+    "body": "Security analysts from multiple think tanks have classified South China Sea tensions at their highest point in five years. The convergence of military buildup, diplomatic breakdowns, and territorial incidents creates conditions for miscalculation and unintended escalation to armed conflict.",
+    "region": "South China Sea",
+    "countries": ["China", "Philippines", "Vietnam", "USA"],
+    "date": "2026-03-20",
+    "source": "Pacific Security Review"
+  },
+  {
+    "id": 52,
+    "title": "Iran warns of preemptive strikes against Israeli nuclear sites",
+    "body": "Iranian military commanders issued unprecedented warnings of preemptive strikes against Israeli nuclear facilities if Israel attacks Iranian territory. Iran unveiled new long-range missile systems with claimed accuracy capable of hitting hardened targets. The threats prompted emergency Israeli cabinet meeting.",
+    "region": "Middle East",
+    "countries": ["Iran", "Israel"],
+    "date": "2026-03-20",
+    "source": "Tehran Security Monitor"
+  },
+  {
+    "id": 53,
+    "title": "Peaceful trade discussions between India and Pakistan make progress",
+    "body": "Business delegations from India and Pakistan concluded productive trade discussions in Doha, Qatar, reaching agreements on agricultural exports and textile trade. Both governments expressed cautious optimism about economic cooperation, though political tensions remain elevated.",
+    "region": "India-Pakistan",
+    "countries": ["India", "Pakistan"],
+    "date": "2026-03-18",
+    "source": "South Asia Business"
+  },
+  {
+    "id": 54,
+    "title": "Taiwan and mainland China cultural exchange program announced",
+    "body": "A new cultural exchange program between Taiwan and mainland China was announced through intermediaries in Singapore, allowing artists and academics to visit each other's territories. While modest, analysts called it a rare positive signal amid heightened military tensions.",
+    "region": "Taiwan",
+    "countries": ["Taiwan", "China"],
+    "date": "2026-03-17",
+    "source": "Cross-Strait Monitor"
+  },
+  {
+    "id": 55,
+    "title": "Korean summit talks resume in DMZ after 3-year break",
+    "body": "North and South Korean officials met at Panmunjom for the first time in three years for preliminary discussions on reducing border tensions. No substantive agreements were reached but the mere resumption of dialogue was welcomed by international observers concerned about escalating nuclear risks.",
+    "region": "Korean Peninsula",
+    "countries": ["North Korea", "South Korea"],
+    "date": "2026-03-15",
+    "source": "Korea Peace Monitor"
+  },
+  {
+    "id": 56,
+    "title": "South China Sea fishery agreement reached between Vietnam and China",
+    "body": "Vietnam and China reached a limited fishery cooperation agreement governing fishing rights in overlapping zones of the South China Sea. While territorial disputes remain unresolved, the agreement reduces flashpoints in the most commercially active fishing grounds.",
+    "region": "South China Sea",
+    "countries": ["Vietnam", "China"],
+    "date": "2026-03-14",
+    "source": "Maritime Cooperation Watch"
+  },
+  {
+    "id": 57,
+    "title": "Russia-Ukraine prisoner exchange conducted through UAE mediation",
+    "body": "Russia and Ukraine conducted their largest prisoner-of-war exchange to date, facilitated by UAE mediators. Over 500 prisoners were repatriated on each side. While the exchange does not signal broader peace progress, it demonstrated that minimal cooperation channels remain open.",
+    "region": "Russia-Ukraine",
+    "countries": ["Russia", "Ukraine", "UAE"],
+    "date": "2026-03-13",
+    "source": "Conflict Resolution Watch"
+  },
+  {
+    "id": 58,
+    "title": "Iran and Saudi Arabia restore ambassadorial relations",
+    "body": "Iran and Saudi Arabia formally restored full ambassadorial relations in a ceremony in Riyadh, representing significant progress in regional detente. The China-brokered normalization has reduced Houthi attacks on Saudi territory. Analysts urge caution given multiple remaining flashpoints.",
+    "region": "Middle East",
+    "countries": ["Iran", "Saudi Arabia", "China"],
+    "date": "2026-03-12",
+    "source": "Gulf Diplomacy Watch"
+  },
+  {
+    "id": 59,
+    "title": "North Korea missile launch fails during test, lands short of target",
+    "body": "North Korea's latest missile test ended in failure with the projectile breaking apart shortly after launch and landing inside North Korean territory. While the failed test reduces immediate escalation risk, experts warn Pyongyang will continue development undeterred.",
+    "region": "Korean Peninsula",
+    "countries": ["North Korea"],
+    "date": "2026-03-10",
+    "source": "Missile Monitor"
+  },
+  {
+    "id": 60,
+    "title": "Ethiopia-Somalia sign border security cooperation agreement",
+    "body": "Ethiopia and Somalia signed a bilateral border security cooperation agreement aimed at reducing cross-border militant infiltration and arms smuggling. The agreement was brokered by the African Union and represents a rare positive development in the often-turbulent Horn of Africa security landscape.",
+    "region": "Horn of Africa",
+    "countries": ["Ethiopia", "Somalia"],
+    "date": "2026-03-09",
+    "source": "Africa Peace Monitor"
+  }
+]
